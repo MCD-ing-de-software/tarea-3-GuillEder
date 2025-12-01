@@ -1,6 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Ab2QrTYQ)
 ## Guillermo Eder López Rojas
 
+<img width="1476" height="174" alt="image" src="https://github.com/user-attachments/assets/05e1e6df-600b-4649-8f8c-e0559a05f718" />
+
+
 # Unit Testing Examples for Data Science Students
 
 This small project contains two Python classes that are useful in data
